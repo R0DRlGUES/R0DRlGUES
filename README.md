@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
  </div><hr>
  
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0DRlGUES&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DRlGUES&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
