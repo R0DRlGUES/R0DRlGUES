@@ -3,7 +3,6 @@
 
 -  Ainda não estou atuando na área
 -  Estudando ADS Universidade Paranaense Unipar
--  Estudando linguagem Python - Curso Udemy
 -  HTM5(Basic) | CSS3(Basic) | JavaScript(Basic)
  
 <a href="https://www.instagram.com/pedro_henrique_rodigues/" target="_blank">
