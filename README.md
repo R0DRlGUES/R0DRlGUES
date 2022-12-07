@@ -17,6 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+   <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
  </div><hr>
  
 <div align="center">
