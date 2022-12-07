@@ -1,8 +1,9 @@
 ### <h1>Oi! me chamo Pedro henrique  👋</h1>
 
 
--  Ainda não estou atuando na área
+-  Estagiário de Desenvolvimento - Aliare
 -  Estudando ADS Universidade Paranaense Unipar
+-  Cursos Alura, Udemy
 -  HTM5(Basic) | CSS3(Basic) | JavaScript(Basic) | Java(Basic)
  
 <a href="https://www.instagram.com/pedro_henrique_rodigues/" target="_blank">
