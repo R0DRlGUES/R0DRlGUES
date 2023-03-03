@@ -5,6 +5,7 @@
 -  Estudando ADS Universidade Paranaense Unipar
 -  Cursos Alura, Udemy
 -  HTM5(Basic) | CSS3(Basic) | JavaScript(Basic) | Java(Basic)
+
  
 <a href="https://www.instagram.com/pedro_henrique_rodigues/" target="_blank">
     <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
@@ -25,5 +26,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R0DRlGUES&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DRlGUES&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R0DRlGUES&theme=blue-green&locale=pt_BR)](https://git.io/streak-stats)
+</div>
+
