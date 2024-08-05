@@ -1,6 +1,6 @@
 ### <h1>Oi! Me chamo Pedro Henrique 👋</h1>
 
-- **Assistente Desenvolvimento - Aliare**
+- **Assistente de Desenvolvimento - Aliare**
 - **Estudando ADS - Universidade Paranaense (Unipar)**
 - **Cursos:** Alura, Udemy
 
@@ -12,7 +12,7 @@
 -  Visual Studio Code
 -  PyCharm 
 
-## Linguagen
+## Linguagem 
 > "A evolução não é um processo de perfeição instantânea, mas uma jornada contínua de adaptação, aprendizado e crescimento."
 
 <div>
@@ -24,7 +24,7 @@
 </div>
 <hr>
 
-## Linkedin
+## LinkedIn
 
 <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-334370235/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
