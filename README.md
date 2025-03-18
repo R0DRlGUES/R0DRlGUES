@@ -1,7 +1,7 @@
 ### <h1>Oi! Me chamo Pedro Henrique 👋</h1>
 
 - **Assistente de Desenvolvimento - Aliare**
-- **Estudando ADS - Universidade Paranaense (Unipar)**
+- **Formado Em Análise e Desenvolvimento de Sistemas - Universidade Paranaense (Unipar)**
 - **Cursos:** Alura, Udemy
 
 ## IDEs e Ferramentas
