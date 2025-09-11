@@ -1,8 +1,8 @@
-### <h1>Oi! Me chamo Pedro Henrique 👋</h1>
+# 👋 Oi! Me chamo Pedro Henrique 
 
 - **Formado Em Análise e Desenvolvimento de Sistemas - Universidade Paranaense (Unipar)**
 - **Cursos:** Alura, Udemy
-
+> "A evolução não é um processo de perfeição instantânea, mas uma jornada contínua de adaptação, aprendizado e crescimento."
 ## IDEs e Ferramentas
 - IntelliJ
 -  Apache NetBeans
@@ -11,8 +11,7 @@
 -  Visual Studio Code
 -  PyCharm 
 
-## Linguagem 
-> "A evolução não é um processo de perfeição instantânea, mas uma jornada contínua de adaptação, aprendizado e crescimento."
+## Linguagens e Tecnologias 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="margin-right: 140px;" />
@@ -23,12 +22,15 @@
 </div>
 <hr>
 
-## LinkedIn
+## Onde me encontrar
 
 <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-334370235/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <hr>
+
+##  Estatísticas do GitHub  
 
 <div>
   <table>
