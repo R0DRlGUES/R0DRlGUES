@@ -4,7 +4,7 @@
 - **Cursos:** Alura, Udemy
 > "A evolução não é um processo de perfeição instantânea, mas uma jornada contínua de adaptação, aprendizado e crescimento."
 ## O que estou estudando ?
--  Aprenda do básico ao avançado Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios.
+-  Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios.
 -  JavaScript do básico ao avançado (c/ Node.js e projetos). 
 ## IDEs e Ferramentas
 - IntelliJ
