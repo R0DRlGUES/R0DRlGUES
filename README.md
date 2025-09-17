@@ -8,7 +8,6 @@
 -  JavaScript do básico ao avançado (c/ Node.js e projetos). 
 ## IDEs e Ferramentas
 - IntelliJ
--  Apache NetBeans
 -  DBeaver
 -  PgAdmin
 -  Visual Studio Code
@@ -22,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" alt="CSS3" width="50" height="50" style="margin-right: 140px;" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="50" height="50" style="margin-right: 140px;" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" title="Java" alt="Java" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" />
 </div>
 <hr>
 
