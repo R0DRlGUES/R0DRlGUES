@@ -4,8 +4,8 @@
 - **Cursos:** Alura, Udemy
 > "A evolução não é um processo de perfeição instantânea, mas uma jornada contínua de adaptação, aprendizado e crescimento."
 ## O que estou estudando ?
--  Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios.
--  JavaScript do básico ao avançado (c/ Node.js e projetos). 
+-  JavaScript do básico ao avançado (c/ Node.js e projetos).
+-  Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos
 ## IDEs e Ferramentas
 - IntelliJ
 -  DBeaver
